@@ -4,6 +4,7 @@ import (
 	"fmt"
 )
 
-func main(){
+//中文测试
+func main() {
 	fmt.Println("hello, github!")
 }
